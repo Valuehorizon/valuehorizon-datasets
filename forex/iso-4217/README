@@ -1,0 +1,5 @@
+Contains forex (currency) data based on the ISO 4217 standard.
+
+Latest data will always reside in 'latest/currencydata.csv'
+
+Past data will always reside in 'previous/%Y-%m-%d.csv'
